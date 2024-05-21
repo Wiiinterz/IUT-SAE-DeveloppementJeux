@@ -1,0 +1,19 @@
+Allumette
+
+Joueur 1: 
+0 allumette X
+1 allumette X
+2 allumette X
+3 allumette X
+4 allumette X
+
+gagné X
+
+Joueur 2:
+0 allumette X
+1 allumette X
+2 allumette X
+3 allumette X
+4 allumette X
+
+gagné X

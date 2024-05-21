@@ -1,0 +1,33 @@
+Nombre plus petit
+
+- plus petit  X
+-Plus grand X
+-Gagné X
+- autre nombre X
+
+Nombre plus grand
+
+-plus petit X
+-plus grand X
+-gagné X
+- autre nombreX
+
+Gagné 
+
+-plus petit X
+-plus grand X
+-gagné X
+- autre nombre X
+
+
+Erreur:
+Nombre negatif (choix 2) X
+nombre plus grand (choix 2) X
+
+Nombre négatif(choix 1)	X
+Nombre plus grand (choix 1)X
+
+Trop de mensonge X
+
+Choix joueur plus grand	X
+Choix joueur négatif	X

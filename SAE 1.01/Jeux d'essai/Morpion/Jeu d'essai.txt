@@ -1,0 +1,10 @@
+Diagonale Droite X
+Diagonale Gauche X
+Ligne X
+Colonne	X
+Case déjà prise X
+Ligne inexistante X
+Colonne inexistante X
+Egalité X
+
+ 

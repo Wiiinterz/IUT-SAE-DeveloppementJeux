@@ -1,0 +1,13 @@
+Joueur 
+colonne 	X
+ligne		X
+diag droite	X
+diag gauche	X
+colonne fini	X
+
+gagné 1		X
+gagné 2		X
+
+erreur colonne + grand	X
+erreur colonne + petit	X
+égalité	X
